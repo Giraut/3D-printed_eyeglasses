@@ -1,5 +1,5 @@
 # 3D-printed eyeglasses
-### Version 1.0
+### Version 1.1
 
 Those are the CAD files for the frames of the spectacles I wear every day. When I break the frames, or if I want a new color for a bit of diversity, I simply print new frames and reuse the lenses.
 
@@ -95,6 +95,7 @@ You can print the frames in any material you want, even PLA. Prefer low layer he
 - Cover the lenses in scotch tape to avoid damaging them in the vise.
 - File a 3mm-wide notch into the bevel centered on the line on each lens. Don't file any deeper than the height of the bevel, otherwise the notch will be visible when the lens is mounted in the frame!
 
+![Lens bevel notch](images/lens_bevel_notch.png)
 
 
 ## Assembly
@@ -107,7 +108,18 @@ You can print the frames in any material you want, even PLA. Prefer low layer he
 ### Instructions
 
 - After printing, crack off the supports.
+- Ream the hinge pin holes on the frame and both temples with a 0.9mm drillbit, then as little as possible with a 1.0mm drillbit. Be careful when you insert the drillbits: the axes of the hinges are angled 15° vertically to allow the temples to fold up and fit in a regular glasses case. If you insert the drillbits straight vertically, you will damage the hinges!
+
+![Hinge axis angle](images/hinge_axis_angle.png)
+![Hinge axis angle](images/temple_folding_upward.png)
+
 - Insert each lens into its holder with the notch facing the hinge.
+
+![Lining up the lens bevel notch with the hinge](images/lining_up_lens_bevel_notch_with_hinge.png)
+
 - Orient each lens until both halves of the hinge drop into the notch and the hinge closes completely.
+
+![Closing the hinge](images/closing_the_hinge.png)
+
 - Fit the temples onto the hinges.
 - Drive a dowel pin through each temple and hinge to hold everything together.
