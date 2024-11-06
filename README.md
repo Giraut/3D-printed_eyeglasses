@@ -19,8 +19,12 @@ Those are the CAD files for the frames of the spectacles I wear every day. When 
 
 Final frames in which the lenses are mounted. The lens holders feature lens registration tabs in the V-grooves at the split hinges (see below).
 
+![Frame](images/frame.png)
+
 - [FreeCAD model for the frame](frame.FCStd)
 - [3MF model for the frame](frame.3mf)
+
+![Right temple](images/right_temple.png)
 
 - [FreeCAD model for the right temple](right_temple.FCStd) (the left temple is the mirror)
 - [3MF model for the right temple](right_temple.3mf) (the left temple is the mirror)
@@ -30,8 +34,12 @@ Final frames in which the lenses are mounted. The lens holders feature lens regi
 
 This template is supplied to the lens manufacturer: the lens holders have the same geometry as the final frames but the template is square and stiffer to facilitate mounting in the [lens edging machine](https://youtu.be/dKXUWH8gQLU), the V-groove is slightly deeper than the V-groove in the final frames and the registration tabs are absent to avoid snagging on the edging machine's tracer.
 
+![Template for lens edging machine](images/template_for_lens_edging_machine.png)
+
 - [FreeCAD model for the edging machine template](template_for_lens_edging_machine.FCStd)
 - [3MF model for the edding machine template](template_for_lens_edging_machine.3mf)
+
+![Template for lens edging machine - Hinge lock](images/template_for_lens_edging_machine-hinge_lock.png)
 
 - [FreeCAD model for the edging machine template's fake hinges' locking piece](template_for_lens_edging_machine-hinge_lock.FCStd) (2 needed per template)
 - [3MF model for the edging machine template's fake hinges' locking piece](template_for_lens_edging_machine-hinge_lock.3mf) (2 needed per template)
