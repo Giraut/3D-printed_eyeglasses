@@ -78,7 +78,7 @@ You can print the frames in any material you want, even PLA. Prefer low layer he
 ## Ordering lenses
 
 - Print the template and 2 fake hinge locking pieces.
-- Split the hinges with an Xacto knife or a razor blade.
+- Split the hinges with an X-Acto knife or a razor blade.
 - Close each hinge with a locking piece and secure it with a small piece of 1mm piano wire or similar.
 - Send the template to the lens manufacturer or give it to your optician along with your prescription and tell them you want to receive the lenses mounted with the proper orientation in the lens holders with the 3 alignment dots marked on each lens! This is very important if you want to notch the bevels yourself. Otherwise ask the lens manufacturer or the optician to do it for you: they'll know what to do.
 
