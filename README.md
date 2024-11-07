@@ -46,6 +46,16 @@ This template is supplied to the lens manufacturer: the lens holders have the sa
 - [3MF model for the edging machine template's fake hinges' locking piece](template_for_lens_edging_machine-hinge_lock.3mf) (2 needed per template)
 
 
+### Optional hinge pin jig
+
+Optionally, this jig can be printed to hold the frames at a 15° angle so that the hinges' axes are vertical, to drive the pins in or out of the hinges with a press.
+
+![Hinge pin jig](images/hinge_pin_jig.png)
+
+- [FreeCAD model for the hinge pin jig](hinge_pin_jig.FCStd)
+- [3MF model for the hinge pin jig](hinge_pin_jig.3mf)
+
+
 ### Additional details for the lens manufacturer
 
 A few details the lens manufacturer needs to choose the grinding wheel with the correct bevel profile ("hide-a-bevel"-type bevel, 120° angle) and the width and position of the lens registration tabs if you want them to file it for you - and they agree to do it of course:
@@ -124,3 +134,5 @@ You can print the frames in any material you want, even PLA. Prefer low layer he
 
 - Fit the temples onto the hinges.
 - Drive a dowel pin through each temple and hinge to hold everything together.
+
+![Hinge pin jig used_with press](images/hinge_pin_jig_used_with_press.png)
