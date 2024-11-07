@@ -4,6 +4,7 @@
 Those are the CAD files for the frames of the spectacles I wear every day. When I break the frames, or if I want a new color for a bit of diversity, I simply print new frames and reuse the lenses.
 
 ![3D-printed eyeglasses](images/3d-printed_eyeglasses.png)
+![3D-printed frames of several colors](images/3d-printed_frames_of_several_colors.png)
 
 * [Files](#Files)
 * [Explanation of the registration tabs](#Explanation-of-the-registration-tabs)
