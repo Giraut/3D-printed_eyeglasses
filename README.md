@@ -149,11 +149,8 @@ The traditional way to adjust off-the-shelf eyeglasses is to soften and bend the
 The frames should naturally drop on the roof of your nose, the temples should drop on the root of your ears and the temple wires should wrap around your ears such that:
 
 - The glasses fit perfectly on your face with **ZERO** internal stress: PLA is quite bendy and these frames are very thin, so it doesn't take much tension to bend them out of shape and compromise the placement of the lenses. The frames should have the exact same shape on your face that they have when resting on a table.
-
 - The glasses stay put on your nose and don't slide down.
-
 - Each lens is perfectly centered on the corresponding eye.
-
 - the lenses don't sit at an angle vertically - i.e. they're normal to your line of sight.
 
 
