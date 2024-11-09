@@ -11,6 +11,7 @@ Those are the CAD files for the frames of the spectacles I wear every day. When 
 * [Printing](#Printing)
 * [Ordering lenses](#Ordering-lenses)
 * [Assembly](#Assembly)
+* [Customizing](#Customizing)
 
 
 
@@ -136,3 +137,74 @@ You can print the frames in any material you want, even PLA. Prefer low layer he
 - Drive a dowel pin through each temple and hinge to hold everything together.
 
 ![Hinge pin jig used_with press](images/hinge_pin_jig_used_with_press.png)
+
+
+
+## Customizing
+
+The parts in these FreeCAD model files are designed to create frames that fit me perfectly. But everybody's head is different.
+
+The traditional way to adjust off-the-shelf eyeglasses is to soften and bend the frame and temples. But with 3D-printed frames, it is far better to print them exactly right for you: that way, little to no rework is required after printing new parts.
+
+The frames should naturally drop on the roof of your nose, the temples should drop on the root of your ears and the temple wires should wrap around your ears such that:
+
+- The glasses fit perfectly on your face with **ZERO** internal stress: PLA is quite bendy and these frames are very thin, so it doesn't take much tension to bend them out of shape and compromise the placement of the lenses. The frames should have the exact same shape on your face that they have when resting on a table.
+
+- The glasses stay put on your nose and don't slide down.
+
+- Each lens is perfectly centered on the corresponding eye.
+
+- the lenses don't sit at an angle vertically - i.e. they're normal to your line of sight.
+
+
+### Adjusting the temples splay
+
+These frames are an older style design. They're copies of my nickel silver frames which I made myself some 20 years ago, themselves copies of vintage 1910 glasses I found at the flea market that I really liked. I believe this style is now called "John Lennon", but it's much older than that.
+
+Frames in that style are much narrower than the wearer's head. The idea is to bring the lenses as close to the eyes as possible to provide a very wide field of view with small lenses and make the temples almost touch the sides of the head over their entire length (very convenient incidentally: you can sleep on your side with your glasses on without damaging them!).
+
+For that reason, the frames are splayed to accommodate the width of your head. In other words, the temples are not parallel but opened up.
+
+To adjust the splay, edit the `Hinge mid profile master sketch` in the temple's FreeCAD model and change the distance between the hinges and the root of your ear and the width of your head at that point:
+
+![Temples splay adjustment](images/temples_splay_adjustment.png)
+
+These dimensions aren't critical: they should get the splay angle in the ballpark. The temples should land on your ears without squeezing your head at all. But even if the opening is a few millimeters too narrow, the temple wires are flexible enough to bend a little without deforming the frame at the front.
+
+Still, ideally the temples should only lightly graze the sides of your head.
+
+
+## Adjusting the temple length, height and hook shape
+
+Edit the `Ear hook wire master sketch` in the temple's FreeCAD model to change the length of the temples, modify the shape of the hooks if they don't wrap around your ears perfectly and adjust the temple drop (or rise if you reverse the dimension) to bring the lenses vertical:
+
+![Temple geometry adjustments](images/temple_geometry_adjustments.png)
+
+You may - and probably will - want adjust those parameters differently for the right and left temples if your eyes or your ears aren't level, or your ears have different shapes. Most people don't have perfectly symmetrical facial features, so it's perfectly normal.
+
+To determine if the geometry of the left and right temple are correct:
+
+- Don the glasses and let them sit on your nose and ears naturally.
+- If a hook pulls on the back of your ear, the temple on that side is too short.
+- If you pull gently on a temple and let go of it and that side of the frame stays low on your nose, the temple on that side is too long.
+- If the end of a wire digs into the bottom of your ear, the wire hook on that side is too narrow.
+- If the wire only rests on the top half of your ear and doesn't touch the bottom, the wire hook on that side is too wide.
+
+Look straight ahead:
+
+- If the frame looks like an unbroken circle and it looks like you're looking through a single hoop, the temple lengths and drops are dead-on.
+- If the circle looks broken but the two halves look like they're the same diameters, you'll need to increase the drop on the side the half-circle appears lower.
+- If the circle looks broken but the two halves look like they're at the same level but different diameters, you'll need to increase the length of the temple on the side the half-circle looks larger.
+
+Those adjustments are sometimes mere millimeters and are done by trial and error - i.e. print, test for fit, re-print, re-test for fit... until the glasses fit perfectly and feel really comfortable.
+
+It's a bit tedious but it's a one-off job: once it's done, you'll get perfectly-fitting glasses out of your printer each and every time.
+
+
+## Adjusting the nose bridge
+
+If the nose bridge is too narrow, it will feel like it's digging into the sides of your nose when wearing the glasses for a long time. If it's too wide, it will feel heavy on top of your nose over time.
+
+You can adjust the shape of the bridge by editing the `Nose bridge profile` sketch in the frame's FreeCAD model. Unfortunately, this sketch has a lot of dependencies in other features of the model, and it's designed to merge perfectly with the decorative straight bridge at the front. So if you modify it too much, it will probably break the model. So some knowledge of modelling with FreeCAD is required to successfully alter the shape of the nose bridge so the model resolves correctly.
+
+![Nose bridge profile](images/nose_bridge_profile.png)
