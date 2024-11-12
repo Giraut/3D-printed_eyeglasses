@@ -12,6 +12,7 @@ Those are the CAD files for the frames of the spectacles I wear every day. When 
 * [Ordering lenses](#Ordering-lenses)
 * [Assembly](#Assembly)
 * [Customizing](#Customizing)
+* [Custom case](#Custom-case)
 
 
 
@@ -114,7 +115,7 @@ You can print the frames in any material you want, even PLA. Prefer low layer he
 
 ### Extra components needed
 
-- 2 x [1x10 mm dowel pins](https://www.mcmaster.com/91585A091/)
+- 2 x [1x10mm dowel pins](https://www.mcmaster.com/91585A091/)
 
 
 ### Instructions
@@ -205,3 +206,51 @@ If the nose bridge is too narrow, it will feel like it's digging into the sides 
 You can adjust the shape of the bridge by editing the `Nose bridge profile` sketch in the frame's FreeCAD model. Unfortunately, this sketch has a lot of dependencies in other features of the model, and it's designed to merge perfectly with the decorative straight bridge at the front. So if you modify it too much, it will probably break the model. So some knowledge of modelling with FreeCAD is required to successfully alter the shape of the nose bridge so the model resolves correctly.
 
 ![Nose bridge profile](images/nose_bridge_profile.png)
+
+
+
+## Custom case
+
+This case is custom-made for these glasses. It's designed to hold them by the edge of the frame only, without the lenses ever touching any part of the case, so the case doesn't need to be padded with soft material of any kind to prevent scratching:
+
+![Nose bridge profile](images/3d-printed_custom_case.png)
+
+The case is thick and very stiff, and the hinge is very solid. The case is held closed with 4 neodymium magnets. The lid is designed to pinch the edge of the frame when the case is closed, to lock the glasses in place and prevent them from shifting inside.
+
+https://github.com/user-attachments/assets/b097ec56-49bb-47f0-9804-04e41d0cd408
+
+
+### Files
+
+![Case bottom](images/case_bottom.png)
+
+- [FreeCAD model for the bottom of the case](case_bottom.FCStd)
+- [3MF model for the bottom of the case](case_bottom.3mf)
+
+![Case top](images/case_top.png)
+
+- [FreeCAD model for the top of the case](case_top.FCStd)
+- [3MF model for the top of the case](case_top.3mf)
+
+
+### Assembly
+
+#### Extra components needed
+
+- 4 x [8x3mm neodymium magnet disks](https://uk.farnell.com/eclipse-magnetics/n825/neodymium-disc-magnet-8-x-3mm/dp/3376635)
+- 79mm of [1mm piano wire](https://www.modelscenerysupplies.co.uk/piano-wire-1mm)
+
+
+#### Instructions
+
+- Epoxy 2 magnets in the magnet holders inside each half of the case. Pay attention to the orientation: opposing magnets should attract, not repel each other!
+- Let the epoxy cure fully.
+- Line up the top and bottom halves of the case.
+- Slide the piano wire all the way through the hinge.
+
+
+#### Customizing
+
+The FreeCAD models for the bottom and top halves of the case include engraved-style lettering on the front edge. By default, the top half says "Glasses" and the bottom half says "#1". You can configure them to say whatever you want, like put your name on the case for example. To do so, edit the ShapeString in the model(s) you wish to change:
+
+![Case front markings modifications](images/case_front_markings_modification.png)
