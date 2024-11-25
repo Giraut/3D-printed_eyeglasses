@@ -1,5 +1,5 @@
 # 3D-printed eyeglasses
-### Version 1.2
+### Version 1.3
 
 Those are the CAD files for the frames of the spectacles I wear every day. When I break the frames, or if I want a new color for a bit of diversity, I simply print new frames and reuse the lenses.
 
@@ -50,7 +50,7 @@ This template is supplied to the lens manufacturer: the lens holders have the sa
 
 ### Optional hinge pin jig
 
-Optionally, this jig can be printed to hold the frames at a 15° angle so that the hinges' axes are vertical, to drive the pins in or out of the hinges with a press.
+Optionally, this jig can be printed to hold the frames at a 13° angle so that the hinges' axes are vertical, to drive the pins in or out of the hinges with a press.
 
 ![Hinge pin jig](images/hinge_pin_jig.png)
 
@@ -121,7 +121,7 @@ You can print the frames in any material you want, even PLA. Prefer low layer he
 ### Instructions
 
 - After printing, crack off the supports.
-- Ream the hinge pin holes on the frame and both temples with a 0.9mm drillbit, then as little as possible with a 1.0mm drillbit. Be careful when you insert the drillbits: the axes of the hinges are angled 15° vertically to allow the temples to fold up and fit in a regular glasses case. If you insert the drillbits straight vertically, you will damage the hinges!
+- Ream the hinge pin holes on the frame and both temples with a 0.9mm drillbit, then as little as possible with a 1.0mm drillbit. Be careful when you insert the drillbits: the axes of the hinges are angled 13° vertically to allow the temples to fold up and fit in a regular glasses case. If you insert the drillbits straight vertically, you will damage the hinges!
 
 ![Hinge axis angle](images/hinge_axis_angle.png)
 ![Hinge axis angle](images/temple_folding_upward.png)
