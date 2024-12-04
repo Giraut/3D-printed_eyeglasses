@@ -268,3 +268,5 @@ Attachment to turn your glasses into sunglasses of sorts. The "lenses" are in fa
 - [3MF model for the clip-on shades](clip-on_shades.3mf)
 
 The clip-on shades are designed to be printed with a 0.4mm nozzle at a 0.1mm layer height, including the first layer.
+
+*Note: these shades aren't eye-safe. They'll let UV light through. If you intend to use them outdoors for more than a few minutes, please glue a layer of UV-filtering material on the inside!*
