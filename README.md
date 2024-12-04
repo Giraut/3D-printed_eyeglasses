@@ -13,6 +13,7 @@ Those are the CAD files for the frames of the spectacles I wear every day. When 
 * [Assembly](#Assembly)
 * [Customizing](#Customizing)
 * [Custom case](#Custom-case)
+* [Clip-on shades](#Clip-on-shades)
 
 
 
@@ -254,3 +255,16 @@ https://github.com/user-attachments/assets/b097ec56-49bb-47f0-9804-04e41d0cd408
 The FreeCAD models for the bottom and top halves of the case include engraved-style lettering on the front edge. By default, the top half says "Glasses" and the bottom half says "#1". You can configure them to say whatever you want, like put your name on the case for example. To do so, edit the ShapeString in the model(s) you wish to change:
 
 ![Case front markings modifications](images/case_front_markings_modification.png)
+
+
+
+## Clip-on shades
+
+Attachment to turn your glasses into sunglasses of sorts. The "lenses" are in fact very fine 3D-printed mesh, so vision through them is not perfect. But it's plenty good enough to do sports for example - particularly winter sports. And of course, it's almost free!
+
+![Clip-on shades](images/clip-on_shades.png)
+
+- [FreeCAD model for the clip-on shades](clip-on_shades.FCStd)
+- [3MF model for the clip-on shades](clip-on_shades.3mf)
+
+The clip-on shades are designed to be printed with a 0.4mm nozzle at a 0.1mm layer height, including the first layer.
