@@ -267,13 +267,13 @@ These shades are designed to take round tinted lenses that are 38.8mm in diamete
 
 I found several pairs of those half-price in an airport gift shop, so I bought all of them, kept the lenses and threw away the cheap plastic frames. If you find other suitable cheap donor sunglasses, modify the FreeCAD model accordingly.
 
-![Clip-on shades for round 38.8m-diameter lenses](images/clip-on_shades_for_round_38.8mm_diam_lenses.png)
-![Clip-on shades for round 38.8m-diameter lenses](images/clip-on_shades_for_round_38.8mm_diam_lenses_with_donor_sunglasses.png)
+![Clip-on shades for round 38.8mm-diameter lenses](images/clip-on_shades_for_round_38.8mm_diam_lenses.png)
+![Clip-on shades for round 38.8mm-diameter lenses](images/clip-on_shades_for_round_38.8mm_diam_lenses_with_donor_sunglasses.png)
 
 ### Files
 
-- [FreeCAD model for the clip-on shades for round 38.8m-diameter lenses](clip-on_shades_for_round_38.8mm_diam_lenses.FCStd)
-- [3MF model for the clip-on shades for round 38.8m-diameter lenses](clip-on_shades_for_round_38.8mm_diam_lenses.3mf)
+- [FreeCAD model for the clip-on shades for round 38.8mm-diameter lenses](clip-on_shades_for_round_38.8mm_diam_lenses.FCStd)
+- [3MF model for the clip-on shades for round 38.8mm-diameter lenses](clip-on_shades_for_round_38.8mm_diam_lenses.3mf)
 
 
 
