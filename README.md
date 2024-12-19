@@ -13,7 +13,8 @@ Those are the CAD files for the frames of the spectacles I wear every day. When 
 * [Assembly](#Assembly)
 * [Customizing](#Customizing)
 * [Custom case](#Custom-case)
-* [Clip-on shades](#Clip-on-shades)
+* [Clip-on shades for round 38.8mm-diameter lenses](#Clip-on-shades-for-round-38.8mm-diameter-lenses)
+* [Clip-on shades with novelty mesh lenses](#Clip-on-shades-with-novelty-mesh-lenses)
 
 
 
@@ -258,15 +259,35 @@ The FreeCAD models for the bottom and top halves of the case include engraved-st
 
 
 
-## Clip-on shades
+## Clip-on shades for round 38.8mm-diameter lenses
 
-Attachment to turn your glasses into sunglasses of sorts. The "lenses" are in fact very fine 3D-printed mesh, so vision through them is not perfect. But it's plenty good enough to do sports for example - particularly winter sports. And of course, it's almost free!
+Attachment to turn your glasses into sunglasses.
 
-![Clip-on shades](images/clip-on_shades.png)
+These shades are designed to take round tinted lenses that are 38.8mm in diameter and 1.5mm thick. Specifically, they're designed for lenses harvested from cheap [Cailap Pouta sunglasses for children](https://cailap.com/fi/tuote/aurinkolasit/kids-aurinkolasit-pouta/).
 
-- [FreeCAD model for the clip-on shades](clip-on_shades.FCStd)
-- [3MF model for the clip-on shades](clip-on_shades.3mf)
+I found several pairs of those half-price in an airport gift shop, so I bought all of them, kept the lenses and threw away the cheap plastic frames. If you find other suitable cheap donor sunglasses, modify the FreeCAD model accordingly.
 
-The clip-on shades are designed to be printed with a 0.4mm nozzle at a 0.1mm layer height, including the first layer.
+![Clip-on shades for round 38.8m-diameter lenses](images/clip-on_shades_for_round_38.8mm_diam_lenses.png)
+![Clip-on shades for round 38.8m-diameter lenses](images/clip-on_shades_for_round_38.8mm_diam_lenses_with_donor_sunglasses.png)
+
+### Files
+
+- [FreeCAD model for the clip-on shades for round 38.8m-diameter lenses](clip-on_shades_for_round_38.8mm_diam_lenses.FCStd)
+- [3MF model for the clip-on shades for round 38.8m-diameter lenses](clip-on_shades_for_round_38.8mm_diam_lenses.3mf)
+
+
+
+## Clip-on shades with novelty mesh lenses
+
+Attachment to turn your glasses into sunglasses of sorts. The "lenses" are in fact very fine 3D-printed mesh, so vision through them is not perfect. But it's plenty good enough to do sports for example. Their main advantage is that they don't require real lenses and they're almost free.
 
 *Note: these shades aren't eye-safe. They'll let UV light through. If you intend to use them outdoors for more than a few minutes, please glue a layer of UV-filtering material on the inside!*
+
+![Clip-on shades with novelty mesh lenses](images/clip-on_shades_with_novelty_mesh_lenses.png)
+
+### Files
+
+- [FreeCAD model for the clip-on shades with novelty mesh lenses](clip-on_shades_with_novelty_mesh_lenses.FCStd)
+- [3MF model for the clip-on shades with novelty mesh lenses](clip-on_shades_with_novelty_mesh_lenses.3mf)
+
+The clip-on shades are designed to be printed with a 0.4mm nozzle at a 0.1mm layer height, including the first layer.
