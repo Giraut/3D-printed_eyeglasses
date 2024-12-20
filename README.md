@@ -5,6 +5,7 @@ Those are the CAD files for the frames of the spectacles I wear every day. When 
 
 ![3D-printed eyeglasses](images/3d-printed_eyeglasses.png)
 ![3D-printed frames of several colors](images/3d-printed_frames_of_several_colors.png)
+![Rendered eyeglasses on model head](images/rendered_eyeglasses_on_model_head.png)
 
 * [Files](#Files)
 * [Explanation of the registration tabs](#Explanation-of-the-registration-tabs)
