@@ -216,7 +216,7 @@ You can adjust the shape of the bridge by editing the `Nose bridge profile` sket
 
 This case is custom-made for these glasses. It's designed to hold them by the edge of the frame only, without the lenses ever touching any part of the case, so the case doesn't need to be padded with soft material of any kind to prevent scratching:
 
-![Nose bridge profile](images/3d-printed_custom_case.png)
+![3D-printed custom case](images/3d-printed_custom_case.png)
 
 The case is thick and very stiff, and the hinge is very solid. The case is held closed with 4 neodymium magnets. The lid is designed to pinch the edge of the frame when the case is closed, to lock the glasses in place and prevent them from shifting inside.
 
@@ -291,4 +291,48 @@ Attachment to turn your glasses into sunglasses of sorts. The "lenses" are in fa
 - [FreeCAD model for the clip-on shades with novelty mesh lenses](clip-on_shades_with_novelty_mesh_lenses.FCStd)
 - [3MF model for the clip-on shades with novelty mesh lenses](clip-on_shades_with_novelty_mesh_lenses.3mf)
 
-The clip-on shades are designed to be printed with a 0.4mm nozzle at a 0.1mm layer height, including the first layer.
+The clip-on shades with novelty mesh lenses are designed to be printed with a 0.4mm nozzle at a 0.1mm layer height, including the first layer.
+
+
+
+## Custom case for the clip-on shades
+
+This case is custom-made for the clip-on shades. Like the eyeglasses case, It's designed to hold them by the edge of the frame only, without the lenses ever touching any part of the case, so the case doesn't need to be padded with soft material of any kind to prevent scratching:
+
+![3D-printed custom case for the clip-on shades](images/3d-printed_custom_case_for_clip-on_shades.png)
+
+The case is thick and very stiff, and the hinge is very solid. The case is held closed with 4 neodymium magnets. The lid is designed to pinch the edge of the frame when the case is closed, to lock the clip-on shades in place and prevent them from shifting inside.
+
+
+### Files
+
+![Clip-on shades case bottom](images/clip-on_shades_case_bottom.png)
+
+- [FreeCAD model for the bottom of the clip-on shades case](clip-on_shades_case_bottom.FCStd)
+- [3MF model for the bottom of the clip-on_shades_case](clip-on_shades_case_bottom.3mf)
+
+![clip-on_shades_case top](images/clip-on_shades_case_top.png)
+
+- [FreeCAD model for the top of the clip-on shades case](clip-on_shades_case_top.FCStd)
+- [3MF model for the top of the clip-on shades case](clip-on_shades_case_top.3mf)
+
+
+### Assembly
+
+#### Extra components needed
+
+- 4 x [8x3mm neodymium magnet disks](https://uk.farnell.com/eclipse-magnetics/n825/neodymium-disc-magnet-8-x-3mm/dp/3376635)
+- 78mm of [1mm piano wire](https://www.modelscenerysupplies.co.uk/piano-wire-1mm)
+
+
+#### Instructions
+
+- Epoxy 2 magnets in the magnet holders inside each half of the case. Pay attention to the orientation: opposing magnets should attract, not repel each other!
+- Let the epoxy cure fully.
+- Line up the top and bottom halves of the case.
+- Slide the piano wire all the way through the hinge.
+
+
+#### Customizing
+
+The FreeCAD models for the bottom and top halves of the clip-on shades case include engraved-style lettering on the front edge. By default, the top half says "Sunshades" and the bottom half says "#1". Like the eyeglasses case, you can configure them to say whatever you want by editing the ShapeString in the model(s) you wish to change.
