@@ -16,6 +16,7 @@ Those are the CAD files for the frames of the spectacles I wear every day. When 
 * [Custom case](#Custom-case)
 * [Clip-on shades for round 38.8mm-diameter lenses](#Clip-on-shades-for-round-38.8mm-diameter-lenses)
 * [Clip-on shades with novelty mesh lenses](#Clip-on-shades-with-novelty-mesh-lenses)
+* [Custom case for the clip-on shades](#Custom-case-for-the-clip-on-shades)
 
 
 
@@ -297,7 +298,7 @@ The clip-on shades with novelty mesh lenses are designed to be printed with a 0.
 
 ## Custom case for the clip-on shades
 
-This case is custom-made for the clip-on shades. Like the eyeglasses case, It's designed to hold them by the edge of the frame only, without the lenses ever touching any part of the case, so the case doesn't need to be padded with soft material of any kind to prevent scratching:
+This case is custom-made for the clip-on shades. Like the eyeglasses case, it's designed to hold them by the edge of the frame only, without the lenses ever touching any part of the case, so the case doesn't need to be padded with soft material of any kind to prevent scratching:
 
 ![3D-printed custom case for the clip-on shades](images/3d-printed_custom_case_for_clip-on_shades.png)
 
