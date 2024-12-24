@@ -212,6 +212,14 @@ You can adjust the shape of the bridge by editing the `Nose bridge profile` sket
 ![Nose bridge profile](images/nose_bridge_profile.png)
 
 
+## Adjusting the lens holders' diameters
+
+Depending on your particular printer and how the lens manufacturer edged the lens exactly, the lenses may not fit perfectly inside the lens holders. You can modify the diameters of the lens holders by editing the `Lenses holder master sketch` sketch in the frame's FreeCAD model:
+
+![Lens holders diameters adjustments](images/lens_holders_diameters_adjustments.png)
+
+The lens holders are elliptical and are nominally 40mm and 38mm in diameter. If the lenses fit loosely, reduce both diameters in steps of 0.05mm, reprint and retest for fit. If they fit too tight, increase both diameters similarly. Don't increase the diameters more tham 0.2mm to avoid compromising the frame's rigidity.
+
 
 ## Custom case
 
