@@ -218,7 +218,7 @@ Depending on your particular printer and how the lens manufacturer edged the len
 
 ![Lens holders diameters adjustments](images/lens_holders_diameters_adjustments.png)
 
-The lens holders are elliptical and are nominally 40mm and 38mm in diameter. If the lenses fit loosely, reduce both diameters in steps of 0.05mm, reprint and retest for fit. If they fit too tight, increase both diameters similarly. Don't increase the diameters more tham 0.2mm to avoid compromising the frame's rigidity.
+The lens holders are elliptical and are nominally 40mm and 38mm in diameter. If the lenses fit loosely, reduce both diameters in steps of 0.1mm, reprint and retest for fit. If they fit too tight, increase both diameters similarly. Don't increase the diameters more tham 0.2mm to avoid compromising the frame's rigidity.
 
 
 ## Custom case
@@ -291,7 +291,7 @@ I found several pairs of those half-price in an airport gift shop, so I bought a
 
 Attachment to turn your glasses into sunglasses of sorts. The "lenses" are in fact very fine 3D-printed mesh, so vision through them is not perfect. But it's plenty good enough to do sports for example. Their main advantage is that they don't require real lenses and they're almost free.
 
-*Note: these shades aren't eye-safe. They'll let UV light through. If you intend to use them outdoors for more than a few minutes, please glue a layer of UV-filtering material on the inside!*
+*Note: these shades aren't eye-safe. They'll let UV light through. If your regular, clear lenses don't have a UV coating, please glue a layer of UV-filtering material on the inside!*
 
 ![Clip-on shades with novelty mesh lenses](images/clip-on_shades_with_novelty_mesh_lenses.png)
 
