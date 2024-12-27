@@ -74,7 +74,7 @@ A few details the lens manufacturer needs to choose the grinding wheel with the 
 
 The final frames feature lens registration tabs around the split hinges that interrupt the V-grooves. Those tabs orient the lenses correctly, which is important for astigmat lenses particularly. In this frame design, they also help lock the frame closed.
 
-The tabs are required because the lenses are almost round. They provide a positive mechanical stop to prevent the lenses from shifting and turning in the lens holders, but they require filing a 3mm-wide notch in the lenses' bevel.
+The tabs are required because the lenses are almost round. They provide a positive mechanical stop to prevent the lenses from shifting and turning in the lens holders, but they require filing a 3.5mm-wide notch in the lenses' bevel.
 
 This type of lens registration is almost never used in round glasses because the frame itself is usually made of a material strong enough to clamp the lenses solidly in place, or the lenses are glued in place. Also, they're difficult to manufacture with traditional machining methods.
 
@@ -110,7 +110,7 @@ You can print the frames in any material you want, even PLA. Prefer low layer he
 - With a thin sharpie, mark the location of the split hinge on each lens, front and back.
 - Remove the lenses from the template and draw a line between the two marks on each lens, across the thickness of the lens, straddling the bevel.
 - Cover the lenses in scotch tape to avoid damaging them in the vise.
-- File a 3mm-wide notch into the bevel centered on the line on each lens. Don't file any deeper than the height of the bevel, otherwise the notch will be visible when the lens is mounted in the frame!
+- File a 3.5mm-wide notch into the bevel centered on the line on each lens. Don't file any deeper than the height of the bevel, otherwise the notch will be visible when the lens is mounted in the frame!
 
 ![Lens bevel notch](images/lens_bevel_notch.png)
 
