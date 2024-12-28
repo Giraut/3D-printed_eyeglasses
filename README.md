@@ -295,6 +295,8 @@ Attachment to turn your glasses into sunglasses of sorts. The "lenses" are in fa
 *Note: these shades aren't eye-safe. They'll let UV light through. If your regular, clear lenses don't have a UV coating, please glue a layer of UV-filtering material on the inside!*
 
 ![Clip-on shades with novelty mesh lenses](images/clip-on_shades_with_novelty_mesh_lenses.png)
+![Rendered eyeglasses and shades on model head](images/rendered_eyeglasses_and_shades_on_model_head.png)
+
 
 ### Files
 
