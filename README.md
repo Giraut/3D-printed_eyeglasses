@@ -229,7 +229,8 @@ This case is custom-made for these glasses. It's designed to hold them by the ed
 
 The case is thick and very stiff, and the hinge is very solid. The case is held closed with 4 neodymium magnets. The lid is designed to pinch the edge of the frame when the case is closed, to lock the glasses in place and prevent them from shifting inside.
 
-https://github.com/user-attachments/assets/b097ec56-49bb-47f0-9804-04e41d0cd408
+https://github.com/user-attachments/assets/2d8ead8f-aeec-490b-bac6-e63e706328ba
+
 
 
 ### Files
@@ -311,6 +312,8 @@ This case is custom-made for the clip-on shades. Like the eyeglasses case, it's 
 ![3D-printed custom case for the clip-on shades](images/3d-printed_custom_case_for_clip-on_shades.png)
 
 The case is thick and very stiff, and the hinge is very solid. The case is held closed with 4 neodymium magnets. The lid is designed to pinch the edge of the frame when the case is closed, to lock the clip-on shades in place and prevent them from shifting inside.
+
+https://github.com/user-attachments/assets/a3490ee9-8b56-42ed-8718-a661a9f8ea53
 
 
 ### Files
