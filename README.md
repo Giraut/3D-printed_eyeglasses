@@ -7,16 +7,16 @@ Those are the CAD files for the frames of the spectacles I wear every day. When 
 ![3D-printed frames of several colors](images/3d-printed_frames_of_several_colors.png)
 ![Rendered eyeglasses on model head](images/rendered_eyeglasses_on_model_head.png)
 
-* [Files](#Files)
-* [Explanation of the registration tabs](#Explanation-of-the-registration-tabs)
-* [Printing](#Printing)
-* [Ordering lenses](#Ordering-lenses)
-* [Assembly](#Assembly)
-* [Customizing](#Customizing)
-* [Custom case](#Custom-case)
-* [Clip-on shades for round 38.8mm-diameter lenses](#Clip-on-shades-for-round-38.8mm-diameter-lenses)
-* [Clip-on shades with novelty mesh lenses](#Clip-on-shades-with-novelty-mesh-lenses)
-* [Custom case for the clip-on shades](#Custom-case-for-the-clip-on-shades)
+* [Files](#files)
+* [Explanation of the registration tabs](#explanation-of-the-registration-tabs)
+* [Printing](#printing)
+* [Ordering lenses](#ordering-lenses)
+* [Assembly](#assembly)
+* [Customizing](#customizing)
+* [Custom case](#custom-case)
+* [Clip-on shades for round 38.8mm-diameter lenses](#clip-on-shades-for-round-388mm-diameter-lenses)
+* [Clip-on shades with novelty mesh lenses](#clip-on-shades-with-novelty-mesh-lenses)
+* [Custom case for the clip-on shades](#custom-case-for-the-clip-on-shades)
 
 
 
