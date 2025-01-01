@@ -1,5 +1,5 @@
 # 3D-printed eyeglasses
-### Version 1.3
+### Version 1.4
 
 Those are the CAD files for the frames of the spectacles I wear every day. When I break the frames, or if I want a new color for a bit of diversity, I simply print new frames and reuse the lenses.
 
